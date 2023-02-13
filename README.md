@@ -8,7 +8,7 @@ Actualmente me dedico a mejorar y profundizar mis conocimientos tecnologicos, es
 
 ¿Cual es mi objetivo?
 
-Mi objetivo es seguir creciendo como desarrollador y mejorar mis conocimientos, ser un programador que se dintiga de los demas y lograr ese trabajo que cambie mi vida :trophy: :briefcase:
+Mi objetivo es seguir creciendo como desarrollador y mejorar mis conocimientos, ser un programador que se dintiga de los demas y lograr ese trabajo que cambie mi vida :trophy: :boom: :boom: :briefcase:
 
 Servicios:
 
