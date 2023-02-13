@@ -1,18 +1,18 @@
 ¿Quien soy?
 
-Mi nombre es Jhoalvi Jesus Pereira, tengo 22 años de edad y soy un apasionado por la tecnología. Desde que era chico me gustaban los juegos de logica y dibujar, hace un par de años conoci el mundo de la programación y quede impactado con todo lo que se puede hacer con una buena logica y creatividad y desde ese momento supe que esto era para mi :punch:
+Mi nombre es Jhoalvi Jesus Pereira, tengo 22 años de edad y soy un apasionado por la tecnología. Desde que era chico me gustaban los juegos de logica y dibujar, hace un par de años conoci el mundo de la programación y quede impactado con todo lo que se puede hacer con una buena logica y creatividad y desde ese momento supe que esto era para mi :boy: :punch:
 
 ¿Que hago?
 
-Actualmente me dedico a mejorar y profundizar mis conocimientos tecnologicos, esto mientras sigo en la busqueda de un trabajo que ayude a impulsar mi carrera y crecer profesionalmente :star2:
+Actualmente me dedico a mejorar y profundizar mis conocimientos tecnologicos, esto mientras sigo en la busqueda de un trabajo que ayude a impulsar mi carrera y crecer profesionalmente :books: :sparkles: :sparkles: :star2:
 
 ¿Cual es mi objetivo?
 
-Mi objetivo es seguir creciendo como desarrollador y mejorar mis conocimientos, ser un programador que se dintiga de los demas y lograr ese trabajo que cambie mi vida.
+Mi objetivo es seguir creciendo como desarrollador y mejorar mis conocimientos, ser un programador que se dintiga de los demas y lograr ese trabajo que cambie mi vida :trophy: :briefcase:
 
 Servicios:
 
-Como desarrollador Full stack, soy una persona habil en la creación de paginas Web y aplicaciones Web responsivas adaptables a dispositivos moviles, Tengo tambien buen ojo para el diseño, creación de logos corporativos, banners, Landing Page entre otros componentes que son comunes de ver en sitios o aplicaciones Web.
+Como desarrollador Full stack, soy una persona habil en la creación de paginas Web y aplicaciones Web responsivas adaptables a dispositivos moviles, Tengo tambien buen ojo para el diseño, creación de logos corporativos, banners, Landing Page entre otros componentes que son comunes de ver en sitios o aplicaciones Web :globe_with_meridians:
 
 Tecnologías:
 
@@ -38,8 +38,12 @@ Programas:
 
 Contacto:
 
-Celular: 324-613-2650
+Celular: 324-613-2650 :iphone:
+
+correos :email:
+
 jhoalvipereira@gmail.com
+
 jhoalvipereira@outlook.com
 
 Portafolio: 
