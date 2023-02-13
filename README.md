@@ -16,7 +16,7 @@ Como desarrollador Full stack, soy una persona habil en la creación de paginas 
 
 Tecnologías:
 
-| Rank | Tecnologias |
+| Fila | Tecnologias |
 |-----:|-----------|
 |     1| HTML5 Y CSS|
 |     2| JavaScript|
@@ -29,7 +29,7 @@ Tecnologías:
 
 Programas:
 
-| Rank | Programas|
+| Fila | Programas|
 |-----:|-----------|
 |     1| Adobe Phothoshop|
 |     2| Figma|
