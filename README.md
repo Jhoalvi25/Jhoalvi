@@ -12,7 +12,7 @@ Mi objetivo es seguir creciendo como desarrollador y mejorar mis conocimientos, 
 
 Servicios:
 
-Como desarrollador Full stack, soy una persona habil en la creación de paginas Web y aplicaciones Web responsivas adaptables a dispositivos moviles, Tengo tambien buen ojo para el diseño, creación de logos corporativos, banners, Landing Page entre otros componentes que son comunes de ver en sitios o aplicaciones Web :globe_with_meridians:
+Como desarrollador Full stack, soy una persona habil en la creación de paginas Web y aplicaciones Web responsivas adaptables a dispositivos moviles, Tengo tambien buen ojo para el diseño, creación de logos corporativos, banners, Landing Page entre otros componentes que son comunes de ver en sitios o aplicaciones Web :computer: :globe_with_meridians:
 
 Tecnologías:
 
