@@ -1,18 +1,18 @@
-¿Quien soy?
+¿Quién soy?
 
-Mi nombre es Jhoalvi Jesus Pereira, tengo 22 años de edad y soy un apasionado por la tecnología. Desde que era chico me gustaban los juegos de logica y dibujar, hace un par de años conoci el mundo de la programación y quede impactado con todo lo que se puede hacer con una buena logica y creatividad y desde ese momento supe que esto era para mi :boy: :punch:
+Mi nombre es Jhoalvi Jesus Pereira, tengo 22 años de edad y soy un apasionado por la tecnología. Desde que era chico me gustaban los juegos de lógica y dibujar, hace un par de años conocí el mundo de la programación y quede impactado con todo lo que se puede hacer con una buena lógica y creatividad y desde ese momento supe que esto era para mi 👦 👊
 
-¿Que hago?
+¿Qué hago?
 
-Actualmente me dedico a mejorar y profundizar mis conocimientos tecnologicos, esto mientras sigo en la busqueda de un trabajo que ayude a impulsar mi carrera y crecer profesionalmente :books: :sparkles: :sparkles: :star2:
+Actualmente me dedico a mejorar y profundizar mis conocimientos tecnológicos, esto mientras sigo en la búsqueda de un trabajo que ayude a impulsar mi carrera y crecer profesionalmente 📚 ✨ ✨ 🌟
 
-¿Cual es mi objetivo?
+¿Cuál es mi objetivo?
 
-Mi objetivo es seguir creciendo como desarrollador y mejorar mis conocimientos, ser un programador que se dintiga de los demas y lograr ese trabajo que cambie mi vida :trophy: :boom: :boom: :briefcase:
+Mi objetivo es seguir creciendo como desarrollador y mejorar mis conocimientos, ser un programador que se distinga de los demás y lograr ese trabajo que cambie mi vida 🏆 💥 💥 💼
 
 Servicios:
 
-Como desarrollador Full stack, soy una persona habil en la creación de paginas Web y aplicaciones Web responsivas adaptables a dispositivos moviles, Tengo tambien buen ojo para el diseño, creación de logos corporativos, banners, Landing Page entre otros componentes que son comunes de ver en sitios o aplicaciones Web :computer: :globe_with_meridians:
+Como desarrollador Full stack, soy una persona hábil en la creación de paginas Web y aplicaciones Web responsivas adaptables a dispositivos móviles, Tengo también buen ojo para el diseño, creación de logos corporativos, banners, Landing Page entre otros componentes que son comunes de ver en sitios o aplicaciones Web 💻 🌐
 
 Tecnologías:
 
