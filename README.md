@@ -50,4 +50,8 @@ Portafolio:
 
 https://jhoalvi25.github.io/Pagina_portafolio/
 
+Linkendin:
+
+https://www.linkedin.com/in/jhoalvi-pereira-477468242/
+
 
