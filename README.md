@@ -21,11 +21,13 @@ Tecnologías:
 |     1| HTML5 Y CSS|
 |     2| JavaScript|
 |     3| React js     |
-|     4| Vue js     |
-|     5| Node js|
-|     6| Express|
-|     7| TypeScript   |
-|     8| PostgreSQL   |
+|     4| React js     |
+|     5| Vue js     |
+|     6| Node js|
+|     7| Express|
+|     8| TypeScript   |
+|     9| PostgreSQL   |
+|     10| MongoDb   |
 
 Programas:
 
