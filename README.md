@@ -21,7 +21,7 @@ Tecnologías:
 |     1| HTML5 Y CSS|
 |     2| JavaScript|
 |     3| React js     |
-|     4| React js     |
+|     4| React Native     |
 |     5| Vue js     |
 |     6| Node js|
 |     7| Express|
